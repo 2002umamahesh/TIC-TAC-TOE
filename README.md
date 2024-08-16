@@ -5,7 +5,7 @@
 **This project is a classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Two players can take turns marking spaces in a 3x3 grid with "X" or "O". The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game.**
 
 ## Getting Started
-**1.https://github.com/2002umamahesh/TIC-TAC-TOE**
+**1.https://github.com/2002umamahesh/TIC-TAC-TOE**<br>
 2.Open the index.html file: Open the index.html file in your preferred web browser.
 
 ## How to Play
