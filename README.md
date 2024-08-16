@@ -22,10 +22,10 @@
 
 ## Project Structure
 
-tic-tac-toe/
-├── index.html
-├── style.css
-├── script.js
+tic-tac-toe<br>
+├── index.html<br>
+├── style.css<br>
+├── script.js<br>
 
 **index.html:** Contains the HTML structure of the game board.<br>
 **atyle.css:** Contains the CSS styles for the game board and elements.<br>
