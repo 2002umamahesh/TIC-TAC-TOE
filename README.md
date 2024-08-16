@@ -31,6 +31,11 @@ tic-tac-toe<br>
 **atyle.css:** Contains the CSS styles for the game board and elements.<br>
 **app.js:** Contains the JavaScript code for game logic and functionality.<br>
 
+## Screenshots of game:
+![Screenshot 2024-08-16 191711](https://github.com/user-attachments/assets/bd3c437c-6d6f-495d-b822-06b46799d3ff)
+
+
+
 ## Future Improvements
 
 1. Implement a computer player.
