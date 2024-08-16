@@ -34,6 +34,13 @@ tic-tac-toe<br>
 ## Screenshots of game:
 ![Screenshot 2024-08-16 191711](https://github.com/user-attachments/assets/bd3c437c-6d6f-495d-b822-06b46799d3ff)
 
+![Screenshot 2024-08-16 194208](https://github.com/user-attachments/assets/927adff5-6aaf-4ca3-9ba5-27ba8e9e3a0a)
+
+
+![Screenshot 2024-08-16 194356](https://github.com/user-attachments/assets/d876ee98-c023-4bcd-8149-5efbeae4029a)
+
+
+
 
 
 ## Future Improvements
